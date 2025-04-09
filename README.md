@@ -1,5 +1,5 @@
 # 💫 About Me:
-I work as a JavaScript Developer at a software company, where I create web applications and solve coding challenges. In my free time, I enjoy reading books and spending quality time with friends.<br><br>
+I work as a JavaScript Developer at a software company, where I specialize in creating web applications and solving complex coding challenges. In addition to my expertise in JavaScript, I have a strong interest in Python, particularly for problem-solving across various platforms. I also have a solid foundation in machine learning, deep learning, web scraping, and data visualization with Power BI. In my free time, I enjoy reading books and spending quality time with friends.<br><br>
 
 
 ## 🌐 Socials:
