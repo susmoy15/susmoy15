@@ -3,7 +3,7 @@ I'm a JavaScript Developer specializing in banner animations and complex coding 
 
 
 ## 🌐 Socials:
-[![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=facebook&logoColor=white)](https://www.facebook.com/share/15msiseEZG/),
+[![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=facebook&logoColor=white)](https://www.facebook.com/share/15msiseEZG/)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/susmoy-bless-6b1096247?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app)
 
 # 💻 Tech Stack:
