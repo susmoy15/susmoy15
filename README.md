@@ -1,5 +1,5 @@
 # 💫 About Me:
-I'm a JavaScript Developer specializing in banner animations and complex coding challenges. Beyond JavaScript, I’m passionate about Python for problem-solving, with a solid foundation in machine learning, deep learning, web scraping, and Power BI for data visualization. In my free time, I enjoy reading and spending time with friends.<br><br>
+I am a JavaScript Developer specializing in banner animations and complex coding challenges.Beyond JavaScript,i am passionate about Python for problem solving,with a solid foundation in machine learning,deep learning,web scraping and Power BI for data visualization.In my free time,i enjoy reading and spending time with friends.<br><br>
 
 
 ## 🌐 Socials:
