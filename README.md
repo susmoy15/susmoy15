@@ -28,7 +28,8 @@ I am a JavaScript Developer specializing in banner animations and complex coding
 ![](https://github-profile-trophy.vercel.app/?username=SUSMOY&theme=radical&no-frame=false&no-bg=true&margin-w=4)
 
 ### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=vue)
+
 
 ### 🔝 Top Contributed Repo
 ![](https://github-contributor-stats.vercel.app/api?username=susmoy15&limit=5&theme=light&combine_all_yearly_contributions=true)
