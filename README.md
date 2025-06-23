@@ -11,7 +11,7 @@ I am a JavaScript Developer specializing in banner animations and complex coding
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=susmoy15&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
 ![](https://nirzak-streak-stats.vercel.app/?user=susmoy15&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=susmoy15&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=susmoy15&theme=radical&layout=compact)
  
 
 ## 🏆 GitHub Trophies
