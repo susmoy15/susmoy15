@@ -11,9 +11,10 @@ I am a JavaScript Developer specializing in banner animations and complex coding
  
 # 📊 GitHub Stats:
 
-![](https://github-readme-stats.vercel.app/api?username=susmoy15&theme=default&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://nirzak-streak-stats.vercel.app/?user=susmoy15&theme=default&hide_border=false)<br/>
-[![](https://github-readme-stats.vercel.app/api/top-langs/?username=susmoy15&theme=default&layout=compact&hide_border=false)](https://github-readme-stats.vercel.app/api?username=susmoy15&theme=default)
+![](https://github-readme-stats.vercel.app/api?username=susmoy15&theme=github_light&hide_border=false&include_all_commits=false&count_private=false)<br/>
+![](https://nirzak-streak-stats.vercel.app/?user=susmoy15&theme=github_light&hide_border=false)<br/>
+[![](https://github-readme-stats.vercel.app/api/top-langs/?username=susmoy15&theme=github_light&layout=compact&hide_border=false)](https://github-readme-stats.vercel.app/api?username=susmoy15&theme=github_light)
+
 
 
 
