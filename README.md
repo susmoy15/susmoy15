@@ -12,7 +12,9 @@ I am a JavaScript Developer specializing in banner animations and complex coding
 ![](https://github-readme-stats.vercel.app/api?username=susmoy15&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
 ![](https://nirzak-streak-stats.vercel.app/?user=susmoy15&theme=dark&hide_border=false)<br/>
 [![](https://github-readme-stats.vercel.app/api/top-langs/?username=susmoy15&theme=tokyonight&layout=compact)](https://github-readme-stats.vercel.app/api?username=susmoy15&theme=tokyonight)
-![Jupyter](https://img.shields.io/badge/Jupyter%20Notebook-Top%20Used-red?style=flat&logo=jupyter&logoColor=white)
+![Python](https://img.shields.io/badge/Python-Top%20Used-red?style=for-the-badge&logo=python&logoColor=white)
+![Jupyter](https://img.shields.io/badge/Jupyter%20Notebook-Top%20Used-red?style=for-the-badge&logo=jupyter&logoColor=white)
+
 
 
  
