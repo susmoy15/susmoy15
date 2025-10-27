@@ -10,7 +10,7 @@ I am a JavaScript Developer specializing in banner animations and complex coding
 ![](https://github-profile-trophy.vercel.app/?username=SUSMOY&theme=discord&no-frame=false&no-bg=true&margin-w=4) 
 # 📊 GitHub Stats
 
-| ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=susmoy15&theme=dark&hide_border=false&include_all_commits=false&count_private=false) | ![Streak Stats](https://nirzak-streak-stats.vercel.app/?user=susmoy15&theme=dark&hide_border=false) | ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=susmoy15&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact) |
+| ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=susmoy15&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact) |
 |---|---|---|
 
 ---
