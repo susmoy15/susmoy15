@@ -1,5 +1,5 @@
 # 💫 About Me: 
-I am a JavaScript Developer specializing in banner animations and complex coding challenges.Beyond JavaScript,i am passionate about Python for problem solving,with a solid foundation in machine learning,deep learning,web scraping and Power BI for data visualization.In my free time,i enjoy reading and spending time with friends.<br><br>
+I am a JavaScript Developer specializing in banner animations and tackling complex coding challenges. Beyond JavaScript, I am passionate about Python and Django for web development and problem solving, with a solid foundation in machine learning, deep learning, and web scraping. In my free time, I enjoy exploring new technologies, reading, and spending quality time with friends.<br>
 ## 🌐 Socials:
 [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=facebook&logoColor=white)](https://www.facebook.com/share/15msiseEZG/) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/susmoy-bless-6b1096247?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app) 
 # 💻 Tech Stack: 
